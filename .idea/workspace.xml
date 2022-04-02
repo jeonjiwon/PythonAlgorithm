@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2820876-75a4-4ec9-88f6-ff6dd1af7843" name="Default Changelist" comment=".gitignore추가 - JetBrains.gitignore">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    <list default="true" id="b2820876-75a4-4ec9-88f6-ff6dd1af7843" name="Default Changelist" comment="3/27 탐욕알고리즘 공부 진행중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConceptNote/2_Greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConceptNote/2_Greedy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="26vPhrkhHBVq1ZsbzZb9JEyHEAu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -65,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648302563797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3/27 탐욕알고리즘 공부 진행중">
+      <created>1648365086798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648365086799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,11 +89,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="초기 commit" />
     <MESSAGE value=".gitignore추가 - JetBrains.gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore추가 - JetBrains.gitignore" />
+    <MESSAGE value="3/27 탐욕알고리즘 공부 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/27 탐욕알고리즘 공부 진행중" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
