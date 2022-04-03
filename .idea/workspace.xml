@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2820876-75a4-4ec9-88f6-ff6dd1af7843" name="Default Changelist" comment="3/27 탐욕알고리즘 공부 진행중">
+    <list default="true" id="b2820876-75a4-4ec9-88f6-ff6dd1af7843" name="Default Changelist" comment="테스트 커밋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConceptNote/2_Greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConceptNote/2_Greedy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648365086799</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4/3 탐욕알고리즘 공부 진행중">
+      <created>1648914124983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648914124983</updated>
+    </task>
+    <task id="LOCAL-00005" summary="   ser">
+      <created>1648968395296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648968395296</updated>
+    </task>
+    <task id="LOCAL-00006" summary="테스트 커밋">
+      <created>1648968476777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648968476777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +115,10 @@
     <MESSAGE value="초기 commit" />
     <MESSAGE value=".gitignore추가 - JetBrains.gitignore" />
     <MESSAGE value="3/27 탐욕알고리즘 공부 진행중" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/27 탐욕알고리즘 공부 진행중" />
+    <MESSAGE value="4/3 탐욕알고리즘 공부 진행중" />
+    <MESSAGE value="   ser" />
+    <MESSAGE value="테스트 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="테스트 커밋" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

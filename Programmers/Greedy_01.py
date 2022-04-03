@@ -6,18 +6,33 @@
 n = int(input())
 lost = list(map(int, input().split()))
 reserve = list(map(int, input().split()))
-answer = len(reserve)
-# lost.sort()
-# reserve.sort()
-
-for lost_item in list:
+answer = n-len(lost)
+lost.sort()
+reserve.sort()
+for lost_item in lost:
+    # 여분을 가져온 사람이 자기 꺼를 도난 당했을 때
+    if lost_item in reserve:
+        answer += 1
+        reserve.remove(lost_item)
+        continue
     for reserve_item in reserve:
-        if lost_item + 1 == reserve_item or lost_item - 1 == reserve_item:
+        if abs(lost_item - reserve_item) == 1 and reserve_item not in lost:
             answer += 1
-
+            reserve.remove(reserve_item)
+            break
+# answer = (n-(len(lost)-answer))
 print(answer)
 
-# 테스트
 
-
-
+# def solution(n, lost, reserve):
+#     answer = n - len(lost)
+#     for lost_item in lost:
+#         if lost_item + 1 > n or lost_item - 1 < 0:
+#             continue
+#         for reserve_item in reserve:
+#             if lost_item + 1 == reserve_item or lost_item - 1 == reserve_item:
+#                 answer += 1
+#                 reserve.remove(reserve_item)
+#                 break
+#     return answer
+# answer = solution(5,[2,4],[1,3,5])
